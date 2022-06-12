@@ -10,5 +10,6 @@
 3. Dinning Philosophres
     * [Using Monitors](https://www.geeksforgeeks.org/dining-philosophers-solution-using-monitors/)
     * [Using Semaphores](https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/)
+    * [Implementation](https://hasitha-chandula.medium.com/the-dining-philosophers-problem-solution-in-java-223daf103c2)
 4. [Reader Writer Problem](https://www.geeksforgeeks.org/readers-writers-problem-set-1-introduction-and-readers-preference-solution/)
 5. [Producer Consumer Problem](https://www.geeksforgeeks.org/producer-consumer-problem-using-semaphores-set-1/)
