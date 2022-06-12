@@ -13,3 +13,11 @@
     * [Implementation](https://hasitha-chandula.medium.com/the-dining-philosophers-problem-solution-in-java-223daf103c2)
 4. [Reader Writer Problem](https://www.geeksforgeeks.org/readers-writers-problem-set-1-introduction-and-readers-preference-solution/)
 5. [Producer Consumer Problem](https://www.geeksforgeeks.org/producer-consumer-problem-using-semaphores-set-1/)
+
+
+# OOPS:
+1. [Oops Concepts](https://www.geeksforgeeks.org/commonly-asked-oop-interview-questions/)
+
+# Java:
+1. [Java Set 1](https://www.geeksforgeeks.org/commonly-asked-java-programming-interview-questions-set-1/)
+2. [Java Set 2](https://www.geeksforgeeks.org/commonly-asked-java-programming-interview-questions-set-2/)
